@@ -21,9 +21,12 @@
 </p>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomin97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moomin97&show_icons=true&theme=gruvbox_light)
 </div>
-  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tong716)](https://solved.ac/tong716/)
 <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoomin97&count_bg=%23E1FF2A&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>  
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoomin97&count_bg=%23FBCEB1&title_bg=%23FFC0B1&icon=wechat.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+
 </div>
