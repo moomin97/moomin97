@@ -2,10 +2,11 @@
 
 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=500&section=header&text=KANG MIN&fontSize=70" />
+</p>
 <h2 align="center">🔥 My Stack 🔥</h2>
 
-<h3 align="center"></h3>
 <p align="center" float="left">
 <img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
