@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=500&section=header&text=KANG MIN&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=KANG MIN&fontSize=70" />
 </p>
 <h2 align="center">🔥 My Stack 🔥</h2>
 
